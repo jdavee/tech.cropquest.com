@@ -76,6 +76,7 @@ h6 {
     font-weight: 700;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
+    margin-bottom: 8px;
 }
 
 .btn-primary:hover,
