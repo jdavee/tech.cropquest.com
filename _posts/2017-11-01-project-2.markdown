@@ -1,0 +1,15 @@
+---
+title: Paramount Reports
+subtitle: Web Application
+layout: default
+modal-id: 2
+date: 2017-11-01
+img: pr.jpg
+thumbnail: pr-thumbnail.jpg
+alt: image-alt
+project-date: November 2017
+client: Crop Quest, Inc.
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
