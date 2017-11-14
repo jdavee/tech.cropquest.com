@@ -43,6 +43,24 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/colt-petty-9134b9b3
 
+- name: John Gibson
+  pic: 1
+  position: Precision Ag Specialist
+  location: Dodge City, KS
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/john-gibson-0a444b115
+
+- name: Chris Pope
+  pic: 1
+  position: Precision Ag Specialist
+  location: Hoxie, KS
+
+- name: Kevin Hecht
+  pic: 1
+  position: Precision Ag Specialist
+  location: Ulysses, KS
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
