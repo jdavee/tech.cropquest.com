@@ -10,6 +10,7 @@ alt: image-alt
 project-date: November 2017
 client: Crop Quest, Inc.
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Paramount Reports is tool for building professional customizable reports for agX compliant software including SST Software's Summit and Sirrus. This was a complete web-based rewrite of our original desktop application. It uses Ruby on Rails, Sidekiq, PostgreSQL, PostGIS, and Bootstrap.
+website: https://www.paramountreports.com
 
 ---

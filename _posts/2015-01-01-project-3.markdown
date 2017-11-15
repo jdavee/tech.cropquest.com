@@ -10,6 +10,7 @@ alt: image-alt
 project-date: January 2015
 client: Crop Quest, Inc.
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Ag Dispatching is a logistcs and dispatching tool used internally by our Precision Ag team, but it is built to support use by external organizations. It uses Ruby on Rails, Sidekiq, PostgreSQL, PostGIS, and Bootstrap.
+website:
 
 ---

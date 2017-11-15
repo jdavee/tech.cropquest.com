@@ -10,6 +10,7 @@ alt: image-alt
 project-date: December 2016
 client: Crop Quest, Inc.
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Water Meter Log is an irrigation meter recording, sharing and reporting app. It was the first Software as a Service web application we launched. It uses Ruby on Rails, PostgreSQL, and jQuery Mobile.
+website: https://www.watermeterlog.com
 
 ---
