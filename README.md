@@ -1,6 +1,6 @@
 # Crop Quest Tech Team
 
-Jekyll based website for https://cropquest.github.io
+Jekyll based website for https://tech.cropquest.com
 
 ## Setup
 
@@ -13,7 +13,3 @@ bundle install
 ```bash
 bundle exec jekyll serve
 ```
-
-## Deployment
-
-Any commits to master are auto built by GitHub Pages.
