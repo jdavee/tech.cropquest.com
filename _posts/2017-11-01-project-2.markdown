@@ -14,3 +14,8 @@ description: Paramount Reports is tool for building professional customizable re
 website: https://www.paramountreports.com
 
 ---
+* * *
+![Paramount Reports Feature1](/img/portfolio/PR_Mobile.gif){:style="border-bottom: 4px solid #eaebeb; width: 40%;"}
+![Paramount Reports Feature2](/img/portfolio/pr-feature1.png){:style="border: 4px solid #eaebeb; border-radius: 4px; width: 100%;"}
+![Paramount Reports Feature3](/img/portfolio/pr-feature2.png){:style="border: 4px solid #eaebeb; border-radius: 4px; width: 100%;"}
+![Paramount Reports Feature4](/img/portfolio/pr-report.png){:style="border: 4px solid #eaebeb; border-radius: 4px; width: 100%;"}
