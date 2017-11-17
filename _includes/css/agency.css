@@ -235,6 +235,21 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+@media(max-width: 1208px) {
+  .navbar-brand img {
+    width: 200px;
+  }
+
+  .navbar-default .nav li a {
+    font-size: 14px;
+    padding: 21px 10px;
+  }
+
+  .intro-heading img {
+    width: 250px;
+  }
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 15px 0;
